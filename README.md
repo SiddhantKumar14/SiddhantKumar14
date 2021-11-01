@@ -22,13 +22,8 @@
 
 ---
 
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
 [![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddhantKumar14)](https://github.com/anuraghazra/github-readme-stats)
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SiddhantKumar14&show_icons=true&hide_border=true" />
 
-</details>
 
 [linkedin]: https://www.linkedin.com/in/siddhant-kumar-7597a3161/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
