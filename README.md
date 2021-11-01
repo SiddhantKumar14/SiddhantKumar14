@@ -20,6 +20,7 @@
 <br />
 
 ---
+[![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddhantKumar14)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
