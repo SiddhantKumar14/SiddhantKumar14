@@ -22,7 +22,7 @@
 
 ---
 
-[![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddhantKumar14)](https://github.com/anuraghazra/github-readme-stats)
+[![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddhantKumar14&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [linkedin]: https://www.linkedin.com/in/siddhant-kumar-7597a3161/
