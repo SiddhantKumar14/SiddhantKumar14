@@ -33,6 +33,6 @@
 <img align="left" alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
 <br />
 <br />
----
+
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddhantKumar14&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
