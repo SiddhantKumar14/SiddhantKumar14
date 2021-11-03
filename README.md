@@ -34,5 +34,6 @@
 <br />
 <br />
 
-
+<p align="center">
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddhantKumar14&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</p>
