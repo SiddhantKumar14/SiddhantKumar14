@@ -2,7 +2,7 @@
 
 ## About me!
  - Final Year Undergrad Student at IIIT Naya Raipur
- - Worked with Computer Vision and Deep Learning and eager to colab!
+ - Worked with Computer Vision and Deep Learning!
  - Currently working with 3D CNNs and learning DevOps
  - Into anime, gaming and philosophy
 
